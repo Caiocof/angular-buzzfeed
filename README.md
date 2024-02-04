@@ -1,27 +1,35 @@
-# AngularBuzzfeed
+# Meu Projeto Buzzfeed
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Bem-vindo ao meu projeto Buzzfeed! Este é um projeto divertido que inclui vários quizzes para descobrir mais sobre você mesmo.
 
-## Development server
+## Quizzes Disponíveis
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- [x] **Quizz: Super-herói ou Supervilão?**
 
-## Code scaffolding
+  - Descubra se você seria um super-herói ou um supervilão neste universo emocionante!
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- [ ] **Quizz: Que Tipo de Viajante Você É?**
 
-## Build
+  - Descubra seu estilo de viagem ideal respondendo a algumas perguntas fascinantes sobre destinos e preferências de viagem.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- [ ] **Quizz: Qual Superpoder Você Teria?**
 
-## Running unit tests
+  - Imagine um mundo onde você possui um superpoder único. Descubra qual poder você teria!
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- [ ] **Quizz: Escolha Sua Própria Aventura**
+  - Tome decisões importantes ao longo da história e descubra o desfecho personalizado da sua aventura.
 
-## Running end-to-end tests
+## Como Executar o Projeto
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. Clone este repositório.
+2. Tenha o angular 14 instalado na maquina
+3. Abra o terminal na pasta do projeto.
+4. Execute `npm install` para instalar as dependências.
+5. Execute `ng serve` para iniciar o servidor de desenvolvimento.
+6. Abra o navegador e visite `http://localhost:4200/`.
 
-## Further help
+## Contribuição
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Sinta-se à vontade para contribuir com mais quizzes, melhorias de design ou correções de bugs. Faça um fork do projeto, faça suas alterações e envie uma pull request.
+
+Divirta-se explorando os quizzes e descobrindo mais sobre você mesmo! 🚀
